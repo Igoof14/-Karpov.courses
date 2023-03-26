@@ -17,7 +17,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
+             <a href="https://github.com/Igoof14/-Karpov.courses/tree/master/1.0%20e-commerce">
              Проект e-commerce </a>
           </b>
      </td>
@@ -26,9 +26,8 @@
     </td>
     <td>
         <code>pandas</code><br/>
-        <code>pymystem3</code><br/>
-        <code>nltk.stem</code><br/>
-        <code>numpy</code>
+        <code>numpy</code><br/>
+        <code>matplotlib</code><br/>
     </td>
 </td>
 </tr>
